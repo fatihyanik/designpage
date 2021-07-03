@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    background-color: white;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar{
+    padding-left: 7vw;
+    padding-right: 7vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    background-color: white;
+}
+
+.navbar-brand{
+    font-size: 1rem !important;
+}
+
+.fonts{
+  font-family: Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.buttons_nav{
+    height: 30px;
+    align-items: center;
+}
+
+.button_text{
+    margin-bottom: 3px;;
+}
+
+.bar_navbar{
+    background-color: #1e3932;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 11vw;
+    font-weight: 800;
+}
